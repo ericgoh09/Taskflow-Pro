@@ -1,6 +1,6 @@
 # TaskFlow Pro - All-In-One To-Do List Application
 
-![Task Management App](https://via.placeholder.com/800x400.png?text=TaskFlow+Pro+Screenshot)
+![Task Management App](https://github.com/ericgoh09/Taskflow-Pro/blob/main/assets/Banner.png)
 
 ## Overview
 
